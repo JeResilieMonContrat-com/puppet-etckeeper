@@ -1,2 +1,2 @@
 #
-type Etckeeper::PackageManager::LowLevel = Enum['dpkg', 'rpm']
+type Etckeeper::PackageManager::LowLevel = Enum['dpkg', 'rpm', 'pacman']

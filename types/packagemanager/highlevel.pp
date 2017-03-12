@@ -1,2 +1,2 @@
 #
-type Etckeeper::PackageManager::HighLevel = Enum['apt', 'yum']
+type Etckeeper::PackageManager::HighLevel = Enum['apt', 'yum', 'pacman']
